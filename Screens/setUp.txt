@@ -1,0 +1,21 @@
+npm install @react-navigation/native  @react-navigation/bottom-tabs @react-navigation/stack react-native-screens react-native-safe-area-context react-native-gesture-handler
+
+
+npm i react-native-geolocation-service
+
+npm install react-native-device-info
+
+git reset --hard HEAD^
+
+
+
+
+
+
+
+
+npm install -g react-native-cli
+
+
+./gradlew clean
+./gradlew assembleRelease
